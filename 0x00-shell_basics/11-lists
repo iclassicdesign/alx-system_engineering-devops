@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "$(ls -la)"
-echo "$(cd ..)"
-echo "$(ls -la)"
-echo "$(cd /boot)"
-echo "$(ls -la)"
+ls -la
+cd ..
+ls -la
+cd /boot
+ls -la
