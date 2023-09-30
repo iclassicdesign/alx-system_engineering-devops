@@ -1,2 +1,2 @@
-#!/binibash
-echo "$(chgrp school hello)"
+#!/bin/bash
+chgrp school hello
